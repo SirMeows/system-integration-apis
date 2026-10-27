@@ -1,6 +1,6 @@
-# SI Mandatory 2
+# System Integration APIs
 
-Multi-service system for the mandatory assignment.
+Multi-service system for the mandatory assignment of System Integration course at Business Academy Copenhagen.
 
 ## Services
 
